@@ -1,0 +1,55 @@
+2022-01-28 16:17:04,242  INFO [main] BaseClass:31 - browser initalization start
+2022-01-28 16:17:04,245  INFO [main] BaseClass:32 - reading property file for key browser
+2022-01-28 16:17:04,248  INFO [main] BaseClass:35 - initalizting chrome browser
+2022-01-28 16:17:06,707  INFO [main] BaseClass:39 - maximizing browser window
+2022-01-28 16:17:06,841  INFO [main] BaseClass:41 - appying browser level waits
+2022-01-28 16:17:06,869  INFO [main] BaseClass:44 - launching JBK offline application
+2022-01-28 16:17:07,926  INFO [main] BaseClass:49 - initalizing extent report
+2022-01-28 16:17:09,051  INFO [main] BaseClass:56 - capturing screenshot for failed testcases
+2022-01-28 16:19:43,698  INFO [main] BaseClass:31 - browser initalization start
+2022-01-28 16:19:43,701  INFO [main] BaseClass:32 - reading property file for key browser
+2022-01-28 16:19:43,703  INFO [main] BaseClass:35 - initalizting chrome browser
+2022-01-28 16:19:46,057  INFO [main] BaseClass:39 - maximizing browser window
+2022-01-28 16:19:46,197  INFO [main] BaseClass:41 - appying browser level waits
+2022-01-28 16:19:46,223  INFO [main] BaseClass:44 - launching JBK offline application
+2022-01-28 16:19:46,969  INFO [main] BaseClass:49 - initalizing extent report
+2022-01-28 16:19:47,970  INFO [main] BaseClass:56 - capturing screenshot for failed testcases
+2022-01-29 02:21:07,158  INFO [main] BaseClass:21 - inside beforesuite
+2022-01-29 02:21:07,160  INFO [main] BaseClass:33 - browser initalization start
+2022-01-29 02:21:07,160  INFO [main] BaseClass:34 - reading property file for key browser
+2022-01-29 02:21:07,162  INFO [main] BaseClass:37 - initalizting chrome browser
+2022-01-29 02:21:10,603  INFO [main] BaseClass:41 - maximizing browser window
+2022-01-29 02:21:10,743  INFO [main] BaseClass:43 - appying browser level waits
+2022-01-29 02:21:10,768  INFO [main] BaseClass:46 - launching JBK offline application
+2022-01-29 02:21:11,424  INFO [main] BaseClass:51 - initalizing extent report
+2022-01-29 02:21:11,750  INFO [main] BaseClass:40 - executing login test
+2022-01-29 02:21:12,721  INFO [main] BaseClass:42 - login test passed
+2022-01-29 02:21:12,731  INFO [main] BaseClass:49 - executing fail test
+2022-01-29 02:21:12,745  INFO [main] BaseClass:58 - capturing screenshot for failed testcases
+2022-01-29 02:21:12,975  INFO [main] BaseClass:30 - inside aftersuite
+2022-01-29 02:28:48,772  INFO [main] BaseClass:21 - inside beforesuite
+2022-01-29 02:28:48,775  INFO [main] BaseClass:33 - browser initalization start
+2022-01-29 02:28:48,775  INFO [main] BaseClass:34 - reading property file for key browser
+2022-01-29 02:28:48,778  INFO [main] BaseClass:37 - initalizting chrome browser
+2022-01-29 02:28:51,108  INFO [main] BaseClass:41 - maximizing browser window
+2022-01-29 02:28:51,241  INFO [main] BaseClass:43 - appying browser level waits
+2022-01-29 02:28:51,269  INFO [main] BaseClass:46 - launching JBK offline application
+2022-01-29 02:28:51,982  INFO [main] BaseClass:51 - initalizing extent report
+2022-01-29 02:28:52,266  INFO [main] BaseClass:40 - executing login test
+2022-01-29 02:28:53,014  INFO [main] BaseClass:42 - login test passed
+2022-01-29 02:28:53,025  INFO [main] BaseClass:49 - executing fail test
+2022-01-29 02:28:53,037  INFO [main] BaseClass:58 - capturing screenshot for failed testcases
+2022-01-29 02:28:53,246  INFO [main] BaseClass:30 - inside aftersuite
+2022-01-31 00:32:01,826  INFO [main] BaseClass:21 - inside beforesuite
+2022-01-31 00:32:01,829  INFO [main] BaseClass:33 - browser initalization start
+2022-01-31 00:32:01,829  INFO [main] BaseClass:34 - reading property file for key browser
+2022-01-31 00:32:01,831  INFO [main] BaseClass:37 - initalizting chrome browser
+2022-01-31 00:32:04,530  INFO [main] BaseClass:41 - maximizing browser window
+2022-01-31 00:32:04,675  INFO [main] BaseClass:43 - appying browser level waits
+2022-01-31 00:32:04,705  INFO [main] BaseClass:46 - launching JBK offline application
+2022-01-31 00:32:05,804  INFO [main] BaseClass:51 - initalizing extent report
+2022-01-31 00:32:06,303  INFO [main] BaseClass:40 - executing login test
+2022-01-31 00:32:07,185  INFO [main] BaseClass:42 - login test passed
+2022-01-31 00:32:07,200  INFO [main] BaseClass:49 - executing fail test
+2022-01-31 00:32:07,214  INFO [main] BaseClass:58 - capturing screenshot for failed testcases
+2022-01-31 00:32:07,485  INFO [main] BaseClass:30 - inside aftersuite
